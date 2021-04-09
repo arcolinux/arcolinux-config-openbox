@@ -1,1 +1,1 @@
-# ArcoLinux-config for openbox
+# ArcoLinux-config
